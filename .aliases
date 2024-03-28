@@ -1,0 +1,7 @@
+alias g++='g++ -std=c++14'
+alias ls='gls -Hl --group-directories-first --color'
+alias gcc='gcc -std=c99'
+alias python='python3'
+
+alias ssh-cs='ssh o2ding@linux.student.cs.uwaterloo.ca'
+alias ssh-ura='ssh o2ding@129.97.251.73'

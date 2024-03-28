@@ -1,0 +1,9 @@
+[user]
+	name = oustan10
+	email = oustan10@gmail.com
+	password = b95aee1afe1a207d4160d7f5e4c784c5168be4e3
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
